@@ -177,7 +177,7 @@ func (r *Client) AccountPaging(req *AccountPagingRequest) (*AccountListSchema, e
 // 3.返回的客服链接，不能修改或复制参数到其他链接使用。否则进入会话事件参数校验不通过，导致无法回调。
 type AddContactWayOptions struct {
 	OpenKFID string `json:"open_kfid"` // 客服帐号ID, 不多于64字节
-	Scene    string `json:"scene"`     // 场景值，字符串类型，由开发者自定义, 不多于32字节, 字符串取值范围(正则表达式)：[0-9a-zA-Z_-]*
+	Scene    string `json:"scene,omitempty"`     // 场景值，字符串类型，由开发者自定义, 不多于32字节, 字符串取值范围(正则表达式)：[0-9a-zA-Z_-]*
 }
 
 // AddContactWaySchema 获取客服账号链接响应内容

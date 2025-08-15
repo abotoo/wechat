@@ -1,6 +1,7 @@
 package material
 
 import (
+	"encoding/json"
 	"fmt"
 	"io"
 
@@ -194,6 +195,11 @@ func (r *Client) GetTempFile(mediaID string) ([]byte, error) {
 	// 检查响应是否为错误信息
 	err = util.DecodeWithCommonError(response, "GetTempFile")
 	if err != nil {
+		// 直接检查 JSON 错误
+		if _, ok := err.(*json.SyntaxError); ok {
+			// GetTempFile 成功时直接返回素材内容,非json
+			return response, nil
+		}
 		return nil, err
 	}
 
