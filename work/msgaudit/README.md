@@ -9,7 +9,7 @@ https://open.work.weixin.qq.com/api/doc/90000/90135/91774
 1、安装 go module
 > go get -u github.com/silenceper/wechat/v2
 
-2、从 `github.com/abotoo/wechat/v2/work/msgaudit/lib` 文件夹下复制 `libWeWorkFinanceSdk_C.so` 动态库文件到系统动态链接库默认文件夹下，或者复制到任意文件夹并在当前文件夹下执行 `export LD_LIBRARY_PATH=$(pwd)`命令设置动态链接库检索地址后即可正常使用
+2、从 `github.com/abotoo/wechat/v3/work/msgaudit/lib` 文件夹下复制 `libWeWorkFinanceSdk_C.so` 动态库文件到系统动态链接库默认文件夹下，或者复制到任意文件夹并在当前文件夹下执行 `export LD_LIBRARY_PATH=$(pwd)`命令设置动态链接库检索地址后即可正常使用
 
 3、编译要求
 - 开启CGO: `CGO_ENABLED=1`
@@ -24,8 +24,8 @@ import (
 	"bytes"
 	"fmt"
 	"github.com/silenceper/wechat/v2"
-	"github.com/abotoo/wechat/v2/work/msgaudit"
-	"github.com/abotoo/wechat/v2/work/config"
+	"github.com/abotoo/wechat/v3/work/msgaudit"
+	"github.com/abotoo/wechat/v3/work/config"
 	"io/ioutil"
 	"os"
 	"path"

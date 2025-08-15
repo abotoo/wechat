@@ -1,7 +1,7 @@
 package material
 
 import (
-	"github.com/abotoo/wechat/v2/work/context"
+	"github.com/abotoo/wechat/v3/work/context"
 )
 
 // Client 素材管理接口实例

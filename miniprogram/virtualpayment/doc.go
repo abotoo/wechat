@@ -21,7 +21,7 @@
 package virtualpayment
 
 import (
-	"github.com/abotoo/wechat/v2/miniprogram/context"
+	"github.com/abotoo/wechat/v3/miniprogram/context"
 )
 
 // NewVirtualPayment 实例化小程序虚拟支付 API

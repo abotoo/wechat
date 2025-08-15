@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"strconv"
 
-	"github.com/abotoo/wechat/v2/pay/config"
-	"github.com/abotoo/wechat/v2/util"
+	"github.com/abotoo/wechat/v3/pay/config"
+	"github.com/abotoo/wechat/v3/util"
 )
 
 // walletTransferGateway 付款到零钱

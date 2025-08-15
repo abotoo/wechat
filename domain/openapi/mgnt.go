@@ -1,6 +1,6 @@
 package openapi
 
-import "github.com/abotoo/wechat/v2/util"
+import "github.com/abotoo/wechat/v3/util"
 
 // GetAPIQuotaParams 查询 API 调用额度参数
 type GetAPIQuotaParams struct {

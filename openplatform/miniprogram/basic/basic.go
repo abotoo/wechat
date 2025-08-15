@@ -3,8 +3,8 @@ package basic
 import (
 	"fmt"
 
-	openContext "github.com/abotoo/wechat/v2/openplatform/context"
-	"github.com/abotoo/wechat/v2/util"
+	openContext "github.com/abotoo/wechat/v3/openplatform/context"
+	"github.com/abotoo/wechat/v3/util"
 )
 
 const (

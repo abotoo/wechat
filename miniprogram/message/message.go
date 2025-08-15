@@ -11,9 +11,9 @@ import (
 
 	"github.com/tidwall/gjson"
 
-	"github.com/abotoo/wechat/v2/miniprogram/context"
-	"github.com/abotoo/wechat/v2/miniprogram/security"
-	"github.com/abotoo/wechat/v2/util"
+	"github.com/abotoo/wechat/v3/miniprogram/context"
+	"github.com/abotoo/wechat/v3/miniprogram/security"
+	"github.com/abotoo/wechat/v3/util"
 )
 
 // ConfirmReceiveMethod 确认收货方式

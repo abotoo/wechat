@@ -3,7 +3,7 @@ package externalcontact
 import (
 	"fmt"
 
-	"github.com/abotoo/wechat/v2/util"
+	"github.com/abotoo/wechat/v3/util"
 )
 
 // groupChatURL 客户群

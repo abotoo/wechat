@@ -4,8 +4,8 @@ import (
 	"encoding/xml"
 	"errors"
 
-	"github.com/abotoo/wechat/v2/pay/notify"
-	"github.com/abotoo/wechat/v2/util"
+	"github.com/abotoo/wechat/v3/pay/notify"
+	"github.com/abotoo/wechat/v3/util"
 )
 
 var queryGateway = "https://api.mch.weixin.qq.com/pay/orderquery"

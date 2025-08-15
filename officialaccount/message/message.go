@@ -3,8 +3,8 @@ package message
 import (
 	"encoding/xml"
 
-	"github.com/abotoo/wechat/v2/officialaccount/device"
-	"github.com/abotoo/wechat/v2/officialaccount/freepublish"
+	"github.com/abotoo/wechat/v3/officialaccount/device"
+	"github.com/abotoo/wechat/v3/officialaccount/freepublish"
 )
 
 // MsgType 基本消息类型

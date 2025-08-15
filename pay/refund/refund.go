@@ -4,8 +4,8 @@ import (
 	"encoding/xml"
 	"fmt"
 
-	"github.com/abotoo/wechat/v2/pay/config"
-	"github.com/abotoo/wechat/v2/util"
+	"github.com/abotoo/wechat/v3/pay/config"
+	"github.com/abotoo/wechat/v3/util"
 )
 
 var refundGateway = "https://api.mch.weixin.qq.com/secapi/pay/refund"

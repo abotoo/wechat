@@ -9,7 +9,7 @@ import (
 	"github.com/fatih/structs"
 	"github.com/spf13/cast"
 
-	"github.com/abotoo/wechat/v2/util"
+	"github.com/abotoo/wechat/v3/util"
 )
 
 // doc: https://pay.weixin.qq.com/wiki/doc/api/jsapi.php?chapter=9_7&index=8

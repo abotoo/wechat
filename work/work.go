@@ -1,21 +1,21 @@
 package work
 
 import (
-	"github.com/abotoo/wechat/v2/credential"
-	"github.com/abotoo/wechat/v2/work/addresslist"
-	"github.com/abotoo/wechat/v2/work/appchat"
-	"github.com/abotoo/wechat/v2/work/checkin"
-	"github.com/abotoo/wechat/v2/work/config"
-	"github.com/abotoo/wechat/v2/work/context"
-	"github.com/abotoo/wechat/v2/work/externalcontact"
-	"github.com/abotoo/wechat/v2/work/invoice"
-	"github.com/abotoo/wechat/v2/work/jsapi"
-	"github.com/abotoo/wechat/v2/work/kf"
-	"github.com/abotoo/wechat/v2/work/material"
-	"github.com/abotoo/wechat/v2/work/message"
-	"github.com/abotoo/wechat/v2/work/msgaudit"
-	"github.com/abotoo/wechat/v2/work/oauth"
-	"github.com/abotoo/wechat/v2/work/robot"
+	"github.com/abotoo/wechat/v3/credential"
+	"github.com/abotoo/wechat/v3/work/addresslist"
+	"github.com/abotoo/wechat/v3/work/appchat"
+	"github.com/abotoo/wechat/v3/work/checkin"
+	"github.com/abotoo/wechat/v3/work/config"
+	"github.com/abotoo/wechat/v3/work/context"
+	"github.com/abotoo/wechat/v3/work/externalcontact"
+	"github.com/abotoo/wechat/v3/work/invoice"
+	"github.com/abotoo/wechat/v3/work/jsapi"
+	"github.com/abotoo/wechat/v3/work/kf"
+	"github.com/abotoo/wechat/v3/work/material"
+	"github.com/abotoo/wechat/v3/work/message"
+	"github.com/abotoo/wechat/v3/work/msgaudit"
+	"github.com/abotoo/wechat/v3/work/oauth"
+	"github.com/abotoo/wechat/v3/work/robot"
 )
 
 // Work 企业微信

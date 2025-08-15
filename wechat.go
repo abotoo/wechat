@@ -6,18 +6,18 @@ import (
 
 	log "github.com/sirupsen/logrus"
 
-	"github.com/abotoo/wechat/v2/cache"
-	"github.com/abotoo/wechat/v2/miniprogram"
-	miniConfig "github.com/abotoo/wechat/v2/miniprogram/config"
-	"github.com/abotoo/wechat/v2/officialaccount"
-	offConfig "github.com/abotoo/wechat/v2/officialaccount/config"
-	"github.com/abotoo/wechat/v2/openplatform"
-	openConfig "github.com/abotoo/wechat/v2/openplatform/config"
-	"github.com/abotoo/wechat/v2/pay"
-	payConfig "github.com/abotoo/wechat/v2/pay/config"
-	"github.com/abotoo/wechat/v2/util"
-	"github.com/abotoo/wechat/v2/work"
-	workConfig "github.com/abotoo/wechat/v2/work/config"
+	"github.com/abotoo/wechat/v3/cache"
+	"github.com/abotoo/wechat/v3/miniprogram"
+	miniConfig "github.com/abotoo/wechat/v3/miniprogram/config"
+	"github.com/abotoo/wechat/v3/officialaccount"
+	offConfig "github.com/abotoo/wechat/v3/officialaccount/config"
+	"github.com/abotoo/wechat/v3/openplatform"
+	openConfig "github.com/abotoo/wechat/v3/openplatform/config"
+	"github.com/abotoo/wechat/v3/pay"
+	payConfig "github.com/abotoo/wechat/v3/pay/config"
+	"github.com/abotoo/wechat/v3/util"
+	"github.com/abotoo/wechat/v3/work"
+	workConfig "github.com/abotoo/wechat/v3/work/config"
 )
 
 func init() {

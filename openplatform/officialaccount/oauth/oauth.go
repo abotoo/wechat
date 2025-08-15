@@ -6,9 +6,9 @@ import (
 	"net/http"
 	"net/url"
 
-	"github.com/abotoo/wechat/v2/officialaccount/context"
-	officialOauth "github.com/abotoo/wechat/v2/officialaccount/oauth"
-	"github.com/abotoo/wechat/v2/util"
+	"github.com/abotoo/wechat/v3/officialaccount/context"
+	officialOauth "github.com/abotoo/wechat/v3/officialaccount/oauth"
+	"github.com/abotoo/wechat/v3/util"
 )
 
 const (

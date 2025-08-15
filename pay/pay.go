@@ -1,12 +1,12 @@
 package pay
 
 import (
-	"github.com/abotoo/wechat/v2/pay/config"
-	"github.com/abotoo/wechat/v2/pay/notify"
-	"github.com/abotoo/wechat/v2/pay/order"
-	"github.com/abotoo/wechat/v2/pay/redpacket"
-	"github.com/abotoo/wechat/v2/pay/refund"
-	"github.com/abotoo/wechat/v2/pay/transfer"
+	"github.com/abotoo/wechat/v3/pay/config"
+	"github.com/abotoo/wechat/v3/pay/notify"
+	"github.com/abotoo/wechat/v3/pay/order"
+	"github.com/abotoo/wechat/v3/pay/redpacket"
+	"github.com/abotoo/wechat/v3/pay/refund"
+	"github.com/abotoo/wechat/v3/pay/transfer"
 )
 
 // Pay 微信支付相关API

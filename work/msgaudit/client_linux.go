@@ -13,8 +13,8 @@ import (
 	"encoding/json"
 	"unsafe"
 
-	"github.com/abotoo/wechat/v2/util"
-	"github.com/abotoo/wechat/v2/work/config"
+	"github.com/abotoo/wechat/v3/util"
+	"github.com/abotoo/wechat/v3/work/config"
 )
 
 // Client 会话存档

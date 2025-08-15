@@ -1,7 +1,7 @@
 package invoice
 
 import (
-	"github.com/abotoo/wechat/v2/work/context"
+	"github.com/abotoo/wechat/v3/work/context"
 )
 
 // Client 电子发票接口实例

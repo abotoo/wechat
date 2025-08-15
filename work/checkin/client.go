@@ -1,7 +1,7 @@
 package checkin
 
 import (
-	"github.com/abotoo/wechat/v2/work/context"
+	"github.com/abotoo/wechat/v3/work/context"
 )
 
 // Client 打卡接口实例

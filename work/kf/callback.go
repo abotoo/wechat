@@ -3,7 +3,7 @@ package kf
 import (
 	"encoding/xml"
 
-	"github.com/abotoo/wechat/v2/util"
+	"github.com/abotoo/wechat/v3/util"
 )
 
 // SignatureOptions 微信服务器验证参数

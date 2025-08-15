@@ -3,8 +3,8 @@ package urllink
 import (
 	"fmt"
 
-	"github.com/abotoo/wechat/v2/miniprogram/context"
-	"github.com/abotoo/wechat/v2/util"
+	"github.com/abotoo/wechat/v3/miniprogram/context"
+	"github.com/abotoo/wechat/v3/util"
 )
 
 // URLLink 小程序 URL Link

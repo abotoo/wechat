@@ -21,7 +21,7 @@
 package minidrama
 
 import (
-	"github.com/abotoo/wechat/v2/miniprogram/context"
+	"github.com/abotoo/wechat/v3/miniprogram/context"
 )
 
 // NewMiniDrama 实例化小程序娱乐直播 API

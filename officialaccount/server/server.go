@@ -15,9 +15,9 @@ import (
 	log "github.com/sirupsen/logrus"
 	"github.com/tidwall/gjson"
 
-	"github.com/abotoo/wechat/v2/officialaccount/context"
-	"github.com/abotoo/wechat/v2/officialaccount/message"
-	"github.com/abotoo/wechat/v2/util"
+	"github.com/abotoo/wechat/v3/officialaccount/context"
+	"github.com/abotoo/wechat/v3/officialaccount/message"
+	"github.com/abotoo/wechat/v3/util"
 )
 
 // Server struct

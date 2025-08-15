@@ -1,10 +1,10 @@
 package kf
 
 import (
-	"github.com/abotoo/wechat/v2/cache"
-	"github.com/abotoo/wechat/v2/credential"
-	"github.com/abotoo/wechat/v2/work/config"
-	"github.com/abotoo/wechat/v2/work/context"
+	"github.com/abotoo/wechat/v3/cache"
+	"github.com/abotoo/wechat/v3/credential"
+	"github.com/abotoo/wechat/v3/work/config"
+	"github.com/abotoo/wechat/v3/work/context"
 )
 
 // Client 微信客服实例

@@ -1,7 +1,7 @@
 package notify
 
 import (
-	"github.com/abotoo/wechat/v2/pay/config"
+	"github.com/abotoo/wechat/v3/pay/config"
 )
 
 // Notify 回调

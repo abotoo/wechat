@@ -1,12 +1,12 @@
 package officialaccount
 
 import (
-	"github.com/abotoo/wechat/v2/credential"
-	"github.com/abotoo/wechat/v2/officialaccount"
-	offConfig "github.com/abotoo/wechat/v2/officialaccount/config"
-	opContext "github.com/abotoo/wechat/v2/openplatform/context"
-	"github.com/abotoo/wechat/v2/openplatform/officialaccount/js"
-	"github.com/abotoo/wechat/v2/openplatform/officialaccount/oauth"
+	"github.com/abotoo/wechat/v3/credential"
+	"github.com/abotoo/wechat/v3/officialaccount"
+	offConfig "github.com/abotoo/wechat/v3/officialaccount/config"
+	opContext "github.com/abotoo/wechat/v3/openplatform/context"
+	"github.com/abotoo/wechat/v3/openplatform/officialaccount/js"
+	"github.com/abotoo/wechat/v3/openplatform/officialaccount/oauth"
 )
 
 // OfficialAccount 代公众号实现业务

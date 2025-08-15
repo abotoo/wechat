@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/abotoo/wechat/v2/util"
+	"github.com/abotoo/wechat/v3/util"
 )
 
 // ResCreateQRCode 获取二维码的返回实体

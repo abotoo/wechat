@@ -3,7 +3,7 @@ package externalcontact
 import (
 	"encoding/xml"
 
-	"github.com/abotoo/wechat/v2/util"
+	"github.com/abotoo/wechat/v3/util"
 )
 
 // 原始回调消息内容

@@ -3,12 +3,12 @@ package openplatform
 import (
 	"net/http"
 
-	"github.com/abotoo/wechat/v2/officialaccount/server"
-	"github.com/abotoo/wechat/v2/openplatform/account"
-	"github.com/abotoo/wechat/v2/openplatform/config"
-	"github.com/abotoo/wechat/v2/openplatform/context"
-	"github.com/abotoo/wechat/v2/openplatform/miniprogram"
-	"github.com/abotoo/wechat/v2/openplatform/officialaccount"
+	"github.com/abotoo/wechat/v3/officialaccount/server"
+	"github.com/abotoo/wechat/v3/openplatform/account"
+	"github.com/abotoo/wechat/v3/openplatform/config"
+	"github.com/abotoo/wechat/v3/openplatform/context"
+	"github.com/abotoo/wechat/v3/openplatform/miniprogram"
+	"github.com/abotoo/wechat/v3/openplatform/officialaccount"
 )
 
 // OpenPlatform 微信开放平台相关api

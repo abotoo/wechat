@@ -7,7 +7,7 @@ package msgaudit
 import (
 	"fmt"
 
-	"github.com/abotoo/wechat/v2/work/config"
+	"github.com/abotoo/wechat/v3/work/config"
 )
 
 // Client 会话存档

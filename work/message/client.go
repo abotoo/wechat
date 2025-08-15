@@ -2,7 +2,7 @@
 package message
 
 import (
-	"github.com/abotoo/wechat/v2/work/context"
+	"github.com/abotoo/wechat/v3/work/context"
 )
 
 // Client 消息推送接口实例

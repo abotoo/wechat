@@ -31,4 +31,4 @@ if err != nil {
 }
 ```
 
-更多使用方法参考[PKG.DEV](https://pkg.go.dev/github.com/abotoo/wechat/v2/miniprogram/tcb)
+更多使用方法参考[PKG.DEV](https://pkg.go.dev/github.com/abotoo/wechat/v3/miniprogram/tcb)

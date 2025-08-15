@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"net/url"
 
-	"github.com/abotoo/wechat/v2/util"
-	"github.com/abotoo/wechat/v2/work/context"
+	"github.com/abotoo/wechat/v3/util"
+	"github.com/abotoo/wechat/v3/work/context"
 )
 
 // Oauth auth

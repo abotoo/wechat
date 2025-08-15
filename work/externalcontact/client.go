@@ -1,7 +1,7 @@
 package externalcontact
 
 import (
-	"github.com/abotoo/wechat/v2/work/context"
+	"github.com/abotoo/wechat/v3/work/context"
 )
 
 // Client 外部联系接口实例

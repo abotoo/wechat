@@ -8,8 +8,8 @@ import (
 	"net/url"
 	"time"
 
-	"github.com/abotoo/wechat/v2/cache"
-	"github.com/abotoo/wechat/v2/util"
+	"github.com/abotoo/wechat/v3/cache"
+	"github.com/abotoo/wechat/v3/util"
 )
 
 const (

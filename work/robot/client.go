@@ -1,7 +1,7 @@
 package robot
 
 import (
-	"github.com/abotoo/wechat/v2/work/context"
+	"github.com/abotoo/wechat/v3/work/context"
 )
 
 // Client 群聊机器人接口实例

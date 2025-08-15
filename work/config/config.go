@@ -2,7 +2,7 @@
 package config
 
 import (
-	"github.com/abotoo/wechat/v2/cache"
+	"github.com/abotoo/wechat/v3/cache"
 )
 
 // Config for 企业微信
