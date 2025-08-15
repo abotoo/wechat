@@ -6,8 +6,8 @@ import (
 	"fmt"
 	"net/url"
 
-	"github.com/silenceper/wechat/v2/officialaccount/context"
-	"github.com/silenceper/wechat/v2/util"
+	"github.com/abotoo/wechat/v2/officialaccount/context"
+	"github.com/abotoo/wechat/v2/util"
 )
 
 const (

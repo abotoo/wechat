@@ -2,7 +2,7 @@
 package appchat
 
 import (
-	"github.com/silenceper/wechat/v2/work/context"
+	"github.com/abotoo/wechat/v2/work/context"
 )
 
 // Client 接口实例
