@@ -1,21 +1,21 @@
 package work
 
 import (
-	"github.com/silenceper/wechat/v2/credential"
-	"github.com/silenceper/wechat/v2/work/addresslist"
-	"github.com/silenceper/wechat/v2/work/appchat"
-	"github.com/silenceper/wechat/v2/work/checkin"
-	"github.com/silenceper/wechat/v2/work/config"
-	"github.com/silenceper/wechat/v2/work/context"
-	"github.com/silenceper/wechat/v2/work/externalcontact"
-	"github.com/silenceper/wechat/v2/work/invoice"
-	"github.com/silenceper/wechat/v2/work/jsapi"
-	"github.com/silenceper/wechat/v2/work/kf"
-	"github.com/silenceper/wechat/v2/work/material"
-	"github.com/silenceper/wechat/v2/work/message"
-	"github.com/silenceper/wechat/v2/work/msgaudit"
-	"github.com/silenceper/wechat/v2/work/oauth"
-	"github.com/silenceper/wechat/v2/work/robot"
+	"github.com/abotoo/wechat/v2/credential"
+	"github.com/abotoo/wechat/v2/work/addresslist"
+	"github.com/abotoo/wechat/v2/work/appchat"
+	"github.com/abotoo/wechat/v2/work/checkin"
+	"github.com/abotoo/wechat/v2/work/config"
+	"github.com/abotoo/wechat/v2/work/context"
+	"github.com/abotoo/wechat/v2/work/externalcontact"
+	"github.com/abotoo/wechat/v2/work/invoice"
+	"github.com/abotoo/wechat/v2/work/jsapi"
+	"github.com/abotoo/wechat/v2/work/kf"
+	"github.com/abotoo/wechat/v2/work/material"
+	"github.com/abotoo/wechat/v2/work/message"
+	"github.com/abotoo/wechat/v2/work/msgaudit"
+	"github.com/abotoo/wechat/v2/work/oauth"
+	"github.com/abotoo/wechat/v2/work/robot"
 )
 
 // Work 企业微信

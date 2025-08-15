@@ -3,9 +3,9 @@ package jsapi
 import (
 	"fmt"
 
-	"github.com/silenceper/wechat/v2/credential"
-	"github.com/silenceper/wechat/v2/util"
-	"github.com/silenceper/wechat/v2/work/context"
+	"github.com/abotoo/wechat/v2/credential"
+	"github.com/abotoo/wechat/v2/util"
+	"github.com/abotoo/wechat/v2/work/context"
 )
 
 // Js struct

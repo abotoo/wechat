@@ -1,6 +1,6 @@
 package business
 
-import "github.com/silenceper/wechat/v2/miniprogram/context"
+import "github.com/abotoo/wechat/v2/miniprogram/context"
 
 // Business 业务
 type Business struct {
